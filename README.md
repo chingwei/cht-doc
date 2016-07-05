@@ -1,5 +1,5 @@
 # cht-doc
-CHT Document
+CHT 電子公文自動讀取
 
 Chrome Extension
 
