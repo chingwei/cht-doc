@@ -1,6 +1,5 @@
-# cht-doc
-CHT 電子公文自動讀取
+# flower-doc
+內部電子公文自動讀取外掛
 
 Chrome Extension
-
-可以自動讀取 Cht 文件
+可以自動讀取公文，節省時間
