@@ -1,13 +1,13 @@
 // ==UserScript==
-// @name         CHT Document
-// @namespace    CHT
-// @description  Auto read cht document
+// @name         公文自動讀取外掛
+// @namespace    Flower
+// @description  Auto read document
 // @include      *
 // @match        https://emsodas.cht.com.tw/Portal/Pages/WaitingDocument.aspx
 // @match        https://emsodas.cht.com.tw/Portal/Forms/*
 // @match        https://emsodas.cht.com.tw/Portal/Pages/InProcessDocument.aspx
 // @author       ChingWei
-// @version      1.20
+// @version      1.21
 // ==/UserScript==
 
 // a function that loads jQuery and calls a callback function when jQuery has finished loading
